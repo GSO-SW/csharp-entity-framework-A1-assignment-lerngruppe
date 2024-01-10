@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Task1_banking_menue",
+      "setup": "sudo apt update && sudo apt -y install dotnet6",
+      "run": "DOTNET_CLI_HOME=/tmp/ dotnet test --filter TestCategory=Task1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 25
+    }
+  ]
+}
