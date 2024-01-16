@@ -47,7 +47,8 @@ Entwickeln Sie eine Anwendung für 'GSO Pizza', eine virtuelle Pizzeria, die dar
 ## :bookmark_tabs: Informationsquelle
 Das Informationsmaterial zur Aufgabe finden Sie hier:   
 [:dart: Entity Framework](./Referenzen/EntityFramwork.md)   
-[:book: GSO-Wiki](https://github.com/GSO-SW/public_content_gso/wiki/Entitiy-Framework)
+[📄 UML-Klassendigramm](./Referenzen/SAS_UML_Klassendigramm.pdf)    
+[:book: GSO-Wiki-Entity-Framework](https://github.com/GSO-SW/public_content_gso/wiki/Entitiy-Framework)
 
   
 ---
